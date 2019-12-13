@@ -5,7 +5,7 @@ A deployed version of the app and online code editor to play around with the cod
 
 Below is a preview of how it looks:
 
-<img src="https://i.ibb.co/gty3zsy/recipe-app-v2.gif" width="300" height="200" alt="recipe-app" />
+<img src="https://i.ibb.co/KWTHNJ5/recipe-app-v2.gif" width="300" height="200" alt="recipe-app" />
 
 ## Available Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
