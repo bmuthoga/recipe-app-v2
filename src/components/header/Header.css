@@ -1,0 +1,51 @@
+button {
+  border: 0;
+  background: 0;
+  font-size: 1em;
+  color: white;
+}
+
+button:hover {
+  color: bisque;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 0;
+}
+
+.nav-header {
+  display: flex;
+  background-color: rgb(61,71,89);
+  justify-content: space-between;
+  padding: 0 10px;
+  align-items: center;
+}
+
+@media (max-width: 800px) {
+  .nav-header {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+}
+
+span {
+  color: white;
+}
+
+.nav-title {
+  font-size: 1.5em;
+  min-width: 15%;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: space-evenly;
+  min-width: 25%;
+}
+
+.nav-item {
+  margin: 0 5px;
+}

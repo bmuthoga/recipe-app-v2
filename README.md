@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Recipe App v2
+This is an improved version of the [Recipe App](https://github.com/bmuthoga/recipe-app) with some added functionality
+
+A deployed version of the app and online code editor to play around with the codebase can be found [here](https://codesandbox.io/s/github/bmuthoga/recipe-app-v2)
+
+Below is a preview of how it looks:
+
+<img src="https://i.ibb.co/gty3zsy/recipe-app-v2.gif" width="300" height="200" alt="recipe-app" />
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
